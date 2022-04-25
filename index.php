@@ -1,2 +1,3 @@
 <?php
-print ('Christian Rayhan Suryanto');
+
+echo "Christian Rayhan Suryanto";
